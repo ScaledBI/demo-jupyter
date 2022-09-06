@@ -1,0 +1,2 @@
+notebook>=6,<7
+matplotlib>=3,<4
